@@ -42,6 +42,6 @@ graphWindow.add_graph(g1)
 graphWindow.add_graph(g2)
 
 
-# graphWindow.save_all(os.path.join(scriptDir, "func_graph.png"))
-# graphWindow.save_graph(g1, os.path.join(scriptDir, "func_g1.png"))
+graphWindow.save_all(os.path.join(scriptDir, "img/func_graph.png"))
+graphWindow.save_graph(g1, os.path.join(scriptDir, "img/func_g1.png"))
 graphWindow.show()

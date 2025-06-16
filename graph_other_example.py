@@ -43,5 +43,5 @@ graphWindow.add_graph(g)
 
 # 保存と表示1
 scriptDir = os.path.dirname(os.path.abspath(__file__))
-#graphWindow.save_all(os.path.join(scriptDir, 'all_example.png'))
+graphWindow.save_all(os.path.join(scriptDir, 'img/all_example.png'))
 graphWindow.show()
