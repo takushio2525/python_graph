@@ -1,4 +1,4 @@
-# Graph/GraphWindow テンプレートクラス APIリファレンス
+# Graph/GraphWindow テンプレートクラス 使用方法
 
 このドキュメントは `graph_template_class.py` のクラス・メソッド・主な引数の解説に特化しています。
 
